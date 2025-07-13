@@ -21,7 +21,7 @@ body {
 	}
 }
 
-.bobbing {
+.header {
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -36,6 +36,22 @@ body {
 	margin-top: 30px;
 	box-shadow: 0px 5px 20px #232323, inset 0 25px 25px -25px #262626;
 }
+
+.bobbing {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	text-align: center;
+	background-image: linear-gradient(to right, #00005F, #0080FF);
+	font-family: "Lexend Mega";
+	font-size: 22pt;
+	font-weight: 200;
+	height: 100px;
+	margin-bottom: 18px;
+	margin-top: 30px;
+	box-shadow: 0px 5px 20px #232323, inset 0 25px 25px -25px #262626;
+} /* UNUSED AS IT LAGS TOO MUCH - svr */
 
 .bobbing marquee {
 	display: flex;
