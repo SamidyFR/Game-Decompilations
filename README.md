@@ -226,7 +226,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Skies of Arcadia Legends](https://github.com/rainchus/SkiesofArcadiaLegends)
 - [SkiFree](https://github.com/yuv422/skifree_decomp)
 - [Sly Cooper and the Thievius Raccoonus](https://github.com/TheOnlyZac/sly1)
-- [Solstice: The Quest for the Staff of Demnos](Solstice: The Quest for the Staff of Demnos)
+- [https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Solstice](Solstice: The Quest for the Staff of Demnos)
 - [Sonic & Knuckles](https://github.com/sonicretro/skdisasm)
 - [Sonic 3D Blast](https://github.com/sonicretro/s3ddisasm)
 - [Sonic Advance 1](https://github.com/SAT-R/sa1)
