@@ -284,9 +284,9 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Superman 64](https://github.com/farisawan-2000/superman)
 - [Shin Megami Tensei](https://github.com/thecommandochicken/smt-decomp)
 - [Tecmo World Cup Soccer](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Tecmo%20World%20Cup%20Soccer)
-- [Tennis (NES)](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Tennis)
+- [Tennis (NES)](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Tennis), [2](https://github.com/CelestialAmber/TetrisNESDisasm)
 - [Tetris (GAME BOY)](https://github.com/alexsteb/tetris_disassembly)
-- [Tetris (NES)](https://github.com/CelestialAmber/TetrisNESDisasm)
+- [Terraria: Xbox 360 Edition](https://github.com/dptug/TerrariaXDK) | **NOTE: apparently broken.**
 - [The Bugs Bunny Crazy Castle](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Bugs%20Bunny%20Crazy%20Castle)
 - [The Incredibles](https://github.com/seilweiss/incredibles)
 - [The Legend of Zelda Links Awakening DX](https://github.com/zladx/LADX-Disassembly)
