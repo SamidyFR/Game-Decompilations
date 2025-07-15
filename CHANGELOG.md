@@ -1,3 +1,6 @@
+### July 15, 2025
+- Added ico, Dragon Quest IX, legend of lagalia, shin  megami tensei and yakuza. fixed link for luigis mansion.
+
 ### July 13, 2025
 - Fixed! turns out the marquee and bobbing animation were lagging the page, not too important for looks.
 
