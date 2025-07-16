@@ -1,4 +1,6 @@
 # GAME DE-COMPILATIONS
+[Website](https://decomps.samidy.com)
+
 Below is a list of game de-compilations I could gather. Created by [Samidy](https://samidy.com/).
 
 HUGE thanks to [Awesome-Game-Decomp](https://github.com/CharlotteCross1998/awesome-game-decompilations), [RetroReversing](https://www.retroreversing.com/source-code/decompiled-retail-console-games) and slightly [decomp.dev](https://decomp.dev/) for all the resources in this guide. This is basically just both into one.  Proportionally smaller thanks to [Severe](https://linktr.ee/svrbrndmg) for helping with the site.
