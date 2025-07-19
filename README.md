@@ -137,7 +137,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Mario & Luigi - Partners in Time](https://github.com/rainchus/partnersintime-decomp)
 - [Mario & Luigi: The Superstar Saga](https://github.com/nstearns96/MLSuperstarSaga)
 - [Mario Golf](https://github.com/monde-lointain/mariogolf64)
-- [Mario Kart 64](https://github.com/n64decomp/mk64)
+- [Mario Kart 64](https://github.com/n64decomp/mk64). [2](https://github.com/HarbourMasters/SpaghettiKart)
 - [Mario Kart Wii](https://github.com/riidefi/mkw)
 - [Mario Kart: Double Dash!!](https://github.com/swarejonge/mkdd)
 - [Mario Party 1](https://github.com/mariopartyrd/marioparty)
