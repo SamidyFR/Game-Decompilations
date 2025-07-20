@@ -29,7 +29,9 @@
 <ul class="space2"></ul>
 <span class="shift-right"><p>Like what you see? <a class="starlink" href="https://github.com/SamidyFR/Game-Decompilations">⭐ The Github Repo!</a> It will help out a ton.</p></span>
 
-    
+
+<h6>This is a beta Search Feature. might not even work, please be patient! c:</h6>
+<input type="text" id="search" placeholder="Search...">
 <ul class="space3" id="Game-Decomps">
 <li><a href="https://github.com/LLONSIT/AeroGauge">AeroGauge</a></li>
 <li><a href="https://github.com/blackgamma7/Aidyn">Aidyn Chronicles: The First Mage</a></li>
@@ -364,4 +366,35 @@
 <li><a href="https://github.com/hamzaxx370/ogre-decomp">Yakuza</a></li>
 </ul>
 
+
+
+
+<script>
+const input = document.getElementById('search');
+const items = Array.from(document.querySelectorAll('#myList li'));
+
+input.addEventListener('input', () => {
+  const query = input.value;
+  items.forEach(li => {
+    const match = microfuzz(query, li.textContent);
+    li.style.display = match ? 'list-item' : 'none';
+  });
+});
+</script>
+
+
+<script>
+function microfuzz(input, text) {
+  input = input.toLowerCase();
+  text = text.toLowerCase();
+  let i = 0;
+  for (let j = 0; j < text.length; j++) {
+    if (input[i] === text[j]) i++;
+    if (i >= input.length) return true;
+  }
+  return false;
+}
+</script>
+
+    
 </body></html>
