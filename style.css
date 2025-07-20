@@ -178,3 +178,17 @@ strong {
 .starlink:hover {
     background-image: linear-gradient(to right, #DFA600, #F8DA7D);
 }
+
+
+#search {
+  display: block;
+  margin: 1em auto;
+  width: 80%;
+  max-width: 400px;
+  padding: 0.5em;
+  font-size: 1em;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  position: relative;
+  z-index: 1;
+}
