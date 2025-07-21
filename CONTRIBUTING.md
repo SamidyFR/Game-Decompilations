@@ -20,7 +20,7 @@ If you're adding a game decomp, make sure it isnt already on the index already. 
 This will show you how to make a Pull Request (or what we will be calling it, PR) for the project.
 
 1. Fork the repo by going to the repos [Main Page](https://github.com/SamidyFR/Game-Decompilations), then at the top right corner there should be a "fork" button next to star's, click that, Then click "Create Respository"
-2. Make Your Changes in Both Index.html **and** README.md. the format for index.html is: ''' <li><a href="Insert_Link_here">Insert Game Name here</a></li> ''' and the Format for README.md is: ''' - [Game Name](Insert_Link_here) '''
+2. Make Your Changes in Both Index.html **and** README.md. You should be able to learn the format just by looking at both, heres an [Index.html Example](https://i.imgur.com/5fSugkp.png) and heres a [README.md Example](https://i.imgur.com/oYvZfGT.png)
 3. Go back to the main page of your Fork, click "Contribute", then "open Pull request."
 4. Add a detailed title and description.
 5. Done!
