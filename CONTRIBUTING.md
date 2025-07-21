@@ -3,7 +3,7 @@
 The list is a Work in Progress (WIP). Still a bunch missing. If you want to help by fixing spelling mistakes, duplicates or just add more game decomps, You're more than welcome to!
 There are 3 supported methods to contribute:
 
-1. RECOMMENDED: [Pull Request/Issue](#PR/ISSUE)
+1. RECOMMENDED: Pull Request/Issue
 2. RECOMMENDED: Tell me the decomp/issue in the "Game Decompilations" Thread in #project-updates in The [FMHY Server](https://rentry.co/fmhy-invite)
 3. [Email](mailto:me@samidy.com)
 
