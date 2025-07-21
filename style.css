@@ -182,7 +182,7 @@ strong {
 
 #search {
   display: block;
-  margin: 1em auto;
+  margin: 1em 0;
   width: 80%;
   max-width: 400px;
   padding: 0.5em;
