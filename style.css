@@ -157,7 +157,7 @@ strong {
 }
 
 .space3 {
-	margin-top: -10px;
+	margin-top: 30px;
 	margin-left: -5px;
 }
 
@@ -182,9 +182,9 @@ strong {
 
 #search {
   display: block;
-  margin-top: 0.5em;
-  margin-left: 2em;
-  width: 80%;
+  margin-top: 0em;
+  margin-left: 1em;
+  width: 100%;
   max-width: 400px;
   padding: 0.5em;
   font-size: 1em;
