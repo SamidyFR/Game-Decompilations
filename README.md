@@ -4,7 +4,7 @@ Below is a list of game de-compilations I could gather. Created by [Samidy](http
 
 HUGE thanks to [Awesome-Game-Decomp](https://github.com/CharlotteCross1998/awesome-game-decompilations), [RetroReversing](https://www.retroreversing.com/source-code/decompiled-retail-console-games) and slightly [decomp.dev](https://decomp.dev/) for all the resources in this guide. This is basically just both into one.  Proportionally smaller thanks to [Severe](https://linktr.ee/svrbrndmg) for helping with the site.
 
-The list is a Work in Progress (WIP). Still a bunch missing. If you want to help by fixing spelling mistakes, duplicates or just add more game decomps, the preferred way to create a PR Or Issue on The [Github Repo!](https://github.com/SamidyFR/Game-Decompilations) Another way is to contact me on [Discord](https://discord.com/users/1063716802988867684) or send me an e-mail over at me@samidy.com. I'd really appreciate it!
+The list is a Work in Progress (WIP). Still a bunch missing. If you want to help by fixing spelling mistakes, duplicates or just add more game decomps, Read The [Contributing Guide!](https://github.com/SamidyFR/Game-Decompilations/blob/main/CONTRIBUTING.md)
 
 Some decomps are still unfinished and they need to be checked before downloading.
 ## **TIP: Use Ctrl+F To search for a Game decomp! This is listed in alphabetical order but the list is LONG, Which is why we recommend Ctrl+F**
