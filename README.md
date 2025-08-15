@@ -1,4 +1,4 @@
-# GAME DE-COMPILATIONS
+# GAME DECOMPILATIONS
 
 Below is a list of game de-compilations I could gather. Created by [Samidy](https://samidy.com/).
 
