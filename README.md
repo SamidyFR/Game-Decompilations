@@ -2,13 +2,13 @@
 
 Below is a list of game de-compilations I could gather. Created by [Samidy](https://samidy.com/).
 
-HUGE thanks to [Awesome-Game-Decomp](https://github.com/CharlotteCross1998/awesome-game-decompilations), [RetroReversing](https://www.retroreversing.com/source-code/decompiled-retail-console-games) and slightly [decomp.dev](https://decomp.dev/) for all the resources in this guide. This is basically just both into one.  Proportionally smaller thanks to [Severe](https://linktr.ee/svrbrndmg) for helping with the site.
+Thanks to everyone who helped, Listed [Here!](https://github.com/SamidyFR/Game-Decompilations/blob/main/CREDITS.md)
 
-The list is a Work in Progress (WIP). Still a bunch missing. If you want to help by fixing spelling mistakes, duplicates or just add more game decomps, Read The [Contributing Guide!](https://github.com/SamidyFR/Game-Decompilations/blob/main/CONTRIBUTING.md)
+### **NOTES:**
 
-Some decomps are still unfinished and they need to be checked before downloading.
-## **TIP: Use Ctrl+F To search for a Game decomp! This is listed in alphabetical order but the list is LONG, Which is why we recommend Ctrl+F**
-Some decomps are still unfinished and they need to be checked before downloading.
+- Some decomps are still unfinished and they need to be checked before downloading.  
+- The list is a Work in Progress (WIP). Still a bunch missing. If you want to help by fixing spelling mistakes, duplicates or just add more game decomps, read the [Contributing Guide!](https://github.com/SamidyFR/Game-Decompilations/blob/main/CONTRIBUTING.md)
+- **TIP: Use Ctrl+F To search for a Game decomp! This is listed in alphabetical order but the list is LONG, Which is why we recommend Ctrl+F**
 
 Last Updated: August 15, 2025
 
