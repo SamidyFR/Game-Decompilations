@@ -11,6 +11,9 @@ Some decomps are still unfinished and they need to be checked before downloading
 Some decomps are still unfinished and they need to be checked before downloading.
 
 Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decompilations) it will help out a ton.
+
+- Last Updated: August 15, 2025
+
 - [AeroGauge](https://github.com/LLONSIT/AeroGauge)
 - [Aidyn Chronicles: The First Mage](https://github.com/blackgamma7/Aidyn)
 - [Aidyn Chronicles](https://github.com/blackgamma7/aidyn)
