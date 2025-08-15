@@ -10,9 +10,9 @@ Some decomps are still unfinished and they need to be checked before downloading
 ## **TIP: Use Ctrl+F To search for a Game decomp! This is listed in alphabetical order but the list is LONG, Which is why we recommend Ctrl+F**
 Some decomps are still unfinished and they need to be checked before downloading.
 
-Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decompilations) it will help out a ton.
+Last Updated: August 15, 2025
 
-- Last Updated: August 15, 2025
+Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decompilations) it will help out a ton.
 
 - [AeroGauge](https://github.com/LLONSIT/AeroGauge)
 - [Aidyn Chronicles: The First Mage](https://github.com/blackgamma7/Aidyn)
