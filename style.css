@@ -1,15 +1,19 @@
+html, body {
+	overflow-x: hidden;
+}
+
 body {
-  background-color: #1a1a1e;
-  color: white;
-  font-family: "Funnel Sans", sans-serif;
-  font-weight: 400;
-  font-size: 14pt;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  list-style-type: none;
-  text-decoration: none;
-  filter: drop-shadow(0px 2px 2px black);
+	  background-color: #1a1a1e;
+	  color: white;
+	  font-family: "Funnel Sans", sans-serif;
+	  font-weight: 400;
+	  font-size: 14pt;
+	  margin: 0;
+	  padding: 0;
+	  list-style: none;
+	  list-style-type: none;
+	  text-decoration: none;
+	  filter: drop-shadow(0px 2px 2px black);
 }
 
 @-webkit-keyframes bobbinganim {
@@ -184,12 +188,56 @@ strong {
   display: block;
   margin-top: 0em;
   margin-left: 1em;
-  width: 100%;
-  max-width: 400px;
+  width: 400px;
   padding: 0.5em;
   font-size: 1em;
-  border-radius: 5px;
-  border: 1px solid #ccc;
+  background-color: #1a1a1a;
+  color: white;
+  outline: none;
+  box-shadow: 0px 5px 15px #232323, inset 0 25px 25px -25px #262626;
+  font-family: "Funnel Sans", sans-serif;
   position: relative;
   z-index: 1;
+  border: 5px solid transparent;
+  border-radius: 2em;
+  background: 
+    linear-gradient(#1a1a1a, #1a1a1a) padding-box,
+    linear-gradient(to right, #00005F, #0080FF) border-box;
+  background-clip: padding-box, border-box;
+  background-origin: padding-box, border-box;
+}
+
+@media only screen and (max-width: 450px) {
+	.header {
+		font-size: 18pt;
+		margin-top: 24px;
+	}
+	body {
+		font-size: 12pt;
+	}
+	a {
+		font-size: 12pt;
+		line-height: 14pt;
+	}
+	a:hover {
+		font-size: 14pt;
+	}
+	#search {
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+@media only screen and (max-width: 375px) {
+	.header {
+		font-size: 16pt;
+	}
+	#search {
+		width: 330px;
+	}
+}
+
+::placeholder {
+	color: silver;
+	opacity: 1;
 }
