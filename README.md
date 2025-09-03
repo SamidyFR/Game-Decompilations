@@ -10,7 +10,7 @@ Thanks to everyone who helped, Listed [Here!](https://github.com/SamidyFR/Game-D
 - The list is a Work in Progress (WIP). Still a bunch missing. If you want to help by fixing spelling mistakes, duplicates or just add more game decomps, read the [Contributing Guide!](https://github.com/SamidyFR/Game-Decompilations/blob/main/CONTRIBUTING.md)
 - **TIP: Use Ctrl+F To search for a Game decomp! This is listed in alphabetical order but the list is LONG, Which is why we recommend Ctrl+F**
 
-Last Updated: August 15, 2025
+Last Updated: Last Updated: September 3rd, 2025
 
 Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decompilations) it will help out a ton.
 
@@ -303,7 +303,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Terraria: Xbox 360 Edition](https://github.com/dptug/TerrariaXDK) | **NOTE: apparently broken.**
 - [The Bugs Bunny Crazy Castle](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Bugs%20Bunny%20Crazy%20Castle)
 - [The Incredibles](https://github.com/seilweiss/incredibles)
-- [The Legend of Zelda Links Awakening DX](https://github.com/zladx/LADX-Disassembly)
+- [The Legend of Zelda Links Awakening DX](https://github.com/zladx/LADX-Disassembly) | [PC Port](https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated)
 - [The Legend of Zelda Oracle of Ages & Seasons](https://github.com/Drenn1/oracles-disasm)
 - [The Legend of Zelda: Breath of the Wild](https://github.com/zeldaret/botw)
 - [The Legend Of Zelda: A Link To The Past](https://github.com/snesrev/zelda3)
