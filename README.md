@@ -128,7 +128,6 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Knuckles Chaotix](https://github.com/sonicretro/chaotix)
 - [Kunio-kun no Nekketsu Soccer League](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Kunio-kun%20no%20Nekketsu%20Soccer%20League)
 - [Legacy of Kain: Soul Reaver](https://github.com/fmil95/soul-re)
-- [Legacy of Kain: Soul Reaver](https://github.com/fmil95/soul-re)
 - [Legend of Dragoon](https://github.com/Legend-of-Dragoon-Modding/Legend-of-Dragoon-Java)
 - [Legend of Legaia](https://github.com/dacodechick/legaia-decomp)
 - [Lego Island](https://github.com/isledecomp/isle) | [Isle Portable (Used to port Lego Island to Other Platforms)](https://github.com/isledecomp/isle-portable)
