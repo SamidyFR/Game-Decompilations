@@ -357,6 +357,6 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Yoshi's Story](https://github.com/decompals/yoshis-story)
 - [Yu-Gi-Oh! Reshef of Destruction](https://github.com/shinny456/ygodm8)
 - [Yakuza](https://github.com/hamzaxx370/ogre-decomp)
-- [Zone of the Enders](https://github.com/GirianSeed/zoe1)
+- [Zone of the Enders 1](https://github.com/GirianSeed/zoe1)
 - [Zone of the Enders 2](https://github.com/GirianSeed/zoe2)
 - [Zone of the Enders 3 (Guy Savage from Metal Gear Solid 3)](https://github.com/GirianSeed/zoe3)
