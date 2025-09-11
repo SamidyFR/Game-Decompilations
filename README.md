@@ -90,6 +90,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Final Fantasy II](https://github.com/everything8215/ff2)
 - [Final Fantasy III](https://github.com/everything8215/ff3)
 - [Final Fantasy IV](https://github.com/everything8215/ff4)
+- [Final Fantasy V](https://www.ff6hacking.com/ff5wiki/images/0/00/Ff5j_asm_Squall.txt)
 - [Final Fantasy V](https://github.com/everything8215/ff5)
 - [Final Fantasy VI](https://github.com/everything8215/ff6)
 - [Final Fantasy VII](https://github.com/ficed/Braver)
