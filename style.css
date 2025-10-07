@@ -120,7 +120,7 @@ a {
 }
 
 a:visited {
-  color: silver;
+  color: white;
 }
 
 a:hover {
@@ -240,4 +240,5 @@ strong {
 ::placeholder {
 	color: silver;
 	opacity: 1;
+
 }
