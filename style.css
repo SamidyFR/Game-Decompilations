@@ -5,7 +5,7 @@ html, body {
 body {
 	  background-color: #1a1a1e;
 	  color: white;
-	  font-family: "Funnel Sans", sans-serif;
+	  font-family: "Funnel Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 	  font-weight: 400;
 	  font-size: 14pt;
 	  margin: 0;
@@ -32,7 +32,7 @@ body {
 	width: 100%;
 	text-align: center;
 	background-image: linear-gradient(to right, #00005F, #0080FF);
-	font-family: "Lexend Mega";
+	font-family: "Lexend Mega", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI Black", "Arial Black", Impact, sans-serif;
 	font-size: 22pt;
 	font-weight: 200;
 	height: 100px;
@@ -48,7 +48,7 @@ body {
 	width: 100%;
 	text-align: center;
 	background-image: linear-gradient(to right, #00005F, #0080FF);
-	font-family: "Lexend Mega";
+	font-family: "Lexend Mega", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI Black", "Arial Black", Impact, sans-serif;
 	font-size: 22pt;
 	font-weight: 200;
 	height: 100px;
@@ -120,7 +120,7 @@ body {
   color: white;
   outline: none;
   box-shadow: 0px 5px 15px #232323, inset 0 25px 25px -25px #262626;
-  font-family: "Funnel Sans", sans-serif;
+  font-family: "Funnel Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   position: relative;
   z-index: 1;
   border: 5px solid transparent;
