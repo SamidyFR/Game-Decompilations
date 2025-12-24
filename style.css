@@ -242,3 +242,13 @@ strong {
 	opacity: 1;
 
 }
+
+
+@media (max-width: 600px) {
+li a {
+  display: block;
+  padding: 12px 16px;
+  margin-bottom: 8px;
+  font-size: 18px;
+}
+}
