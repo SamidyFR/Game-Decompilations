@@ -5,7 +5,7 @@ html, body {
 body {
 	  background-color: #1a1a1e;
 	  color: white;
-	  font-family: "Funnel Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+	  font-family: "Funnel Sans", sans-serif;
 	  font-weight: 400;
 	  font-size: 14pt;
 	  margin: 0;
@@ -32,7 +32,7 @@ body {
 	width: 100%;
 	text-align: center;
 	background-image: linear-gradient(to right, #00005F, #0080FF);
-	font-family: "Lexend Mega", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI Black", "Arial Black", Impact, sans-serif;
+	font-family: "Lexend Mega";
 	font-size: 22pt;
 	font-weight: 200;
 	height: 100px;
@@ -48,7 +48,7 @@ body {
 	width: 100%;
 	text-align: center;
 	background-image: linear-gradient(to right, #00005F, #0080FF);
-	font-family: "Lexend Mega", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI Black", "Arial Black", Impact, sans-serif;
+	font-family: "Lexend Mega";
 	font-size: 22pt;
 	font-weight: 200;
 	height: 100px;
@@ -109,6 +109,81 @@ body {
 	animation-delay: 1s;
 }
 
+a {
+  background-color: transparent;
+  text-decoration: none;
+  line-height: 16pt;
+  font-size: 14pt;
+  transition: 0.2s;
+  background-image: none;
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  font-size: 16pt;
+  background-image: linear-gradient(to right, #0000D3, #47A3ff);
+  color: transparent;
+  background-clip: text;
+}
+
+a{text-decoration: none}
+body.underline a{text-decoration: underline}
+
+.shift-right {
+  margin-left: 15px; 
+  display: inline-block; 
+}
+
+ul {
+  margin-left: 25px;
+}
+
+a {
+  text-decoration: underline !important;
+}
+
+strong {
+    font-weight:600 
+}
+
+
+.space {
+  margin-left: -25px;
+}
+
+.space2 {
+  margin-top: -25px;
+  margin-bottom: -10px;
+}
+
+.space3 {
+	margin-top: 30px;
+	margin-left: -5px;
+}
+
+.fixtext {
+	 margin-right: -25px;
+}
+
+.fixtext2 {
+	 margin-right: 22px;
+}
+
+
+.starlink {
+    background-color: transparent;
+    color: #FFD700;
+}
+
+.starlink:hover {
+    background-image: linear-gradient(to right, #DFA600, #F8DA7D);
+}
+
+
 #search {
   display: block;
   margin-top: 0em;
@@ -120,7 +195,7 @@ body {
   color: white;
   outline: none;
   box-shadow: 0px 5px 15px #232323, inset 0 25px 25px -25px #262626;
-  font-family: "Funnel Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-family: "Funnel Sans", sans-serif;
   position: relative;
   z-index: 1;
   border: 5px solid transparent;
@@ -166,14 +241,4 @@ body {
 	color: silver;
 	opacity: 1;
 
-}
-
-
-@media (max-width: 600px) {
-li a {
-  display: block;
-  padding: 12px 16px;
-  margin-bottom: 8px;
-  font-size: 18px;
-}
 }
