@@ -7,84 +7,189 @@
 <!-- send emails to svrbrndmg@proton.me -->
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
 <meta name="description" content="A list Of Game Decompilations, One of the biggest on the internet.">
-<link rel="icon" type="image/x-icon" href="logo.png">
+<link rel="preload" type="image/x-icon" href="logo.png" as="image">
 
 
 <style>
-a {
-  background-color: transparent;
-  text-decoration: none;
-  line-height: 16pt;
-  font-size: 14pt;
-  transition: 0.2s;
-  background-image: none;
-  color: white;
+html, body {
+	overflow-x: hidden;
 }
 
-a:visited {
-  color: white;
+body {
+	  background-color: #1a1a1e;
+	  color: white;
+	  font-family: "Funnel Sans", sans-serif;
+	  font-weight: 400;
+	  font-size: 14pt;
+	  margin: 0;
+	  padding: 0;
+	  list-style: none;
+	  list-style-type: none;
+	  text-decoration: none;
+	  filter: drop-shadow(0px 2px 2px black);
 }
 
-a:hover {
-  font-size: 16pt;
-  background-image: linear-gradient(to right, #0000D3, #47A3ff);
-  color: transparent;
-  background-clip: text;
+@-webkit-keyframes bobbinganim {
+	0%, 100% {
+		transform: translateY(0);
+	}
+	50% {
+		transform: translateY(-15px);
+	}
 }
 
-a{text-decoration: none}
-body.underline a{text-decoration: underline}
-
-.shift-right {
-  margin-left: 15px; 
-  display: inline-block; 
-}
-
-ul {
-  margin-left: 25px;
-}
-
-a {
-  text-decoration: underline !important;
-}
-
-strong {
-    font-weight:600 
-}
-
-
-.space {
-  margin-left: -25px;
-}
-
-.space2 {
-  margin-top: -25px;
-  margin-bottom: -10px;
-}
-
-.space3 {
+.header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	text-align: center;
+	background-image: linear-gradient(to right, #00005F, #0080FF);
+	font-family: "Lexend Mega";
+	font-size: 22pt;
+	font-weight: 200;
+	height: 100px;
+	margin-bottom: 18px;
 	margin-top: 30px;
-	margin-left: -5px;
+	box-shadow: 0px 5px 20px #232323, inset 0 25px 25px -25px #262626;
 }
 
-.fixtext {
-	 margin-right: -25px;
+.bobbing {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	text-align: center;
+	background-image: linear-gradient(to right, #00005F, #0080FF);
+	font-family: "Lexend Mega";
+	font-size: 22pt;
+	font-weight: 200;
+	height: 100px;
+	margin-bottom: 18px;
+	margin-top: 30px;
+	box-shadow: 0px 5px 20px #232323, inset 0 25px 25px -25px #262626;
+} /* UNUSED AS IT LAGS TOO MUCH - svr */
+
+.bobbing marquee {
+	display: flex;
+	align-items: center;
+	height: 83px;
 }
 
-.fixtext2 {
-	 margin-right: 22px;
+.bobbing span {
+	color: white;
+	display: inline-block;
+	animation: bobbinganim 1.75s infinite ease-in-out;
+	filter: drop-shadow(0px 5px 5px black);
+}
+
+.bobbing span:nth-child(2) {
+	animation-delay: 0.1s;
+}
+
+.bobbing span:nth-child(3) {
+	animation-delay: 0.2s;
+}
+
+.bobbing span:nth-child(4) {
+	animation-delay: 0.3s;
+}
+
+.bobbing span:nth-child(6) {
+	animation-delay: 0.4s;
+}
+
+.bobbing span:nth-child(7) {
+	animation-delay: 0.5s;
+}
+
+.bobbing span:nth-child(8) {
+	animation-delay: 0.6s;
+}
+
+.bobbing span:nth-child(9) {
+	animation-delay: 0.7s;
+}
+.bobbing span:nth-child(10) {
+	animation-delay: 0.8s;
+}
+
+.bobbing span:nth-child(11) {
+	animation-delay: 0.9s;
+}
+
+.bobbing span:nth-child(12) {
+	animation-delay: 1s;
+}
+
+#search {
+  display: block;
+  margin-top: 0em;
+  margin-left: 1em;
+  width: 400px;
+  padding: 0.5em;
+  font-size: 1em;
+  background-color: #1a1a1a;
+  color: white;
+  outline: none;
+  box-shadow: 0px 5px 15px #232323, inset 0 25px 25px -25px #262626;
+  font-family: "Funnel Sans", sans-serif;
+  position: relative;
+  z-index: 1;
+  border: 5px solid transparent;
+  border-radius: 2em;
+  background: 
+    linear-gradient(#1a1a1a, #1a1a1a) padding-box,
+    linear-gradient(to right, #00005F, #0080FF) border-box;
+  background-clip: padding-box, border-box;
+  background-origin: padding-box, border-box;
+}
+
+@media only screen and (max-width: 450px) {
+	.header {
+		font-size: 18pt;
+		margin-top: 24px;
+	}
+	body {
+		font-size: 12pt;
+	}
+	a {
+		font-size: 12pt;
+		line-height: 14pt;
+	}
+	a:hover {
+		font-size: 14pt;
+	}
+	#search {
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+@media only screen and (max-width: 375px) {
+	.header {
+		font-size: 16pt;
+	}
+	#search {
+		width: 330px;
+	}
+}
+
+::placeholder {
+	color: silver;
+	opacity: 1;
+
 }
 
 
-.starlink {
-    background-color: transparent;
-    color: #FFD700;
+@media (max-width: 600px) {
+li a {
+  display: block;
+  padding: 12px 16px;
+  margin-bottom: 8px;
+  font-size: 18px;
 }
-
-.starlink:hover {
-    background-image: linear-gradient(to right, #DFA600, #F8DA7D);
 }
-
 </style>
 
 
@@ -95,7 +200,6 @@ Game
 <span><div style="margin-right: 12px;"></div></span>
 Decompilations
 </h1>
-<link href="style.css?v=6" rel="stylesheet" type="text/css" media="all">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Funnel+Sans:ital,wght@0,300..800;1,300..800&family=Lexend+Mega:wght@100..900" rel="stylesheet">
