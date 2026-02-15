@@ -10,7 +10,7 @@ Thanks to everyone who helped, Listed [Here!](https://github.com/SamidyFR/Game-D
 - The list is a Work in Progress (WIP). Still a bunch missing. If you want to help by fixing spelling mistakes, duplicates or just add more game decomps, read the [Contributing Guide!](https://github.com/SamidyFR/Game-Decompilations/blob/main/CONTRIBUTING.md)
 - **TIP: Use Ctrl+F To search for a Game decomp! This is listed in alphabetical order but the list is LONG, Which is why we recommend Ctrl+F**
 
-Last Updated: Last Updated: November 3rd, 2025
+Last Updated: Last Updated: February 15th, 2026
 
 Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decompilations) it will help out a ton.
 
