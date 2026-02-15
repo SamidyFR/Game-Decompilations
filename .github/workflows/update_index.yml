@@ -27,9 +27,19 @@ jobs:
         run: |
           import re
           import os
+          from datetime import datetime
 
           readme_path = 'README.md'
           index_path = 'index.html'
+
+          def get_ordinal_date():
+              now = datetime.now()
+              day = now.day
+              if 11 <= (day % 100) <= 13:
+                  suffix = 'th'
+              else:
+                  suffix = {1: 'st', 2: 'nd', 3: 'rd'}.get(day % 10, 'th')
+              return now.strftime("%B") + f" {day}{suffix}, %Y"
 
           if os.path.exists(readme_path) and os.path.exists(index_path):
               with open(readme_path, 'r', encoding='utf-8') as f:
@@ -60,9 +70,14 @@ jobs:
                       
                       new_index_content = re.sub(ul_pattern, lambda m: m.group(1) + new_inner_html + m.group(3), index_content, flags=re.DOTALL)
                       
+                      # Update Last Updated Date
+                      current_date = get_ordinal_date()
+                      date_pattern = r'<li>Last Updated: .*?</li>'
+                      new_index_content = re.sub(date_pattern, f'<li>Last Updated: {current_date}</li>', new_index_content)
+
                       with open(index_path, 'w', encoding='utf-8') as f:
                           f.write(new_index_content)
-                      print(f"Updated index.html with {len(html_items)} items.")
+                      print(f"Updated index.html with {len(html_items)} items and date {current_date}.")
                   else:
                       print("No items found.")
               else:
