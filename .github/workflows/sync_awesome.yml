@@ -28,6 +28,7 @@ jobs:
           import requests
           import re
           import os
+          from datetime import datetime
 
           LOCAL_README = 'README.md'
           REMOTE_REPO_URLS = [
@@ -35,6 +36,15 @@ jobs:
               'https://raw.githubusercontent.com/CharlotteCross1998/awesome-game-decompilations/master/README.md'
           ]
           START_MARKER = "Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decompilations) it will help out a ton."
+
+          def get_ordinal_date():
+              now = datetime.now()
+              day = now.day
+              if 11 <= (day % 100) <= 13:
+                  suffix = 'th'
+              else:
+                  suffix = {1: 'st', 2: 'nd', 3: 'rd'}.get(day % 10, 'th')
+              return f"{now.strftime('%B')} {day}{suffix}, {now.year}"
 
           def get_remote_content():
               for url in REMOTE_REPO_URLS:
@@ -101,6 +111,9 @@ jobs:
                           existing_urls.add(url)
 
           if new_lines:
+              new_date = get_ordinal_date()
+              header = re.sub(r'Last Updated:.*', f'Last Updated: {new_date}', header)
+
               all_lines = local_lines + new_lines
               all_lines.sort(key=lambda x: x.lower())
               

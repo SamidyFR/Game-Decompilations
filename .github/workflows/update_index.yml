@@ -7,10 +7,15 @@ on:
     paths:
       - 'README.md'
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Sync with Awesome Game Decompilations"]
+    types:
+      - completed
 
 jobs:
   update-index:
     runs-on: ubuntu-latest
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     permissions:
       contents: write
     steps:
@@ -39,7 +44,7 @@ jobs:
                   suffix = 'th'
               else:
                   suffix = {1: 'st', 2: 'nd', 3: 'rd'}.get(day % 10, 'th')
-              return now.strftime("%B") + f" {day}{suffix}, %Y"
+              return f"{now.strftime('%B')} {day}{suffix}, {now.year}"
 
           if os.path.exists(readme_path) and os.path.exists(index_path):
               with open(readme_path, 'r', encoding='utf-8') as f:
