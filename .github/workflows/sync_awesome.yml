@@ -1,0 +1,121 @@
+name: Sync with Awesome Game Decompilations
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Runs every sunday basically
+  workflow_dispatch:
+
+jobs:
+  sync-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run sync script
+        shell: python
+        run: |
+          import requests
+          import re
+          import os
+
+          LOCAL_README = 'README.md'
+          REMOTE_REPO_URLS = [
+              'https://raw.githubusercontent.com/CharlotteCross1998/awesome-game-decompilations/main/README.md',
+              'https://raw.githubusercontent.com/CharlotteCross1998/awesome-game-decompilations/master/README.md'
+          ]
+          START_MARKER = "Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decompilations) it will help out a ton."
+
+          def get_remote_content():
+              for url in REMOTE_REPO_URLS:
+                  try:
+                      resp = requests.get(url)
+                      if resp.status_code == 200:
+                          print(f"Successfully fetched from {url}")
+                          return resp.text
+                  except Exception as e:
+                      print(f"Error fetching {url}: {e}")
+              return None
+
+          def extract_link_info(line):
+              match = re.search(r'\[([^\]]+)\]\(([^)]+)\)', line)
+              if match:
+                  return match.group(1).strip(), match.group(2).strip()
+              return None, None
+
+          def normalize_name(name):
+              return re.sub(r'\W+', '', name).lower()
+
+          if not os.path.exists(LOCAL_README):
+              print("Local README.md not found.")
+              exit(1)
+
+          with open(LOCAL_README, 'r', encoding='utf-8') as f:
+              local_content = f.read()
+
+          if START_MARKER not in local_content:
+              print("Start marker not found in local README.")
+              exit(1)
+
+          header, list_part = local_content.split(START_MARKER, 1)
+          
+          existing_names = set()
+          existing_urls = set()
+          local_lines = []
+
+          raw_lines = [line.strip() for line in list_part.split('\n') if line.strip()]
+          for line in raw_lines:
+              if line.startswith('- ') or line.startswith('* '):
+                  name, url = extract_link_info(line)
+                  if name and url:
+                      existing_names.add(normalize_name(name))
+                      existing_urls.add(url)
+                  local_lines.append(line)
+
+          remote_content = get_remote_content()
+          if not remote_content:
+              print("Could not fetch remote README.")
+              exit(1)
+
+          new_lines = []
+          for line in remote_content.split('\n'):
+              line = line.strip()
+              if line.startswith('- ') or line.startswith('* '):
+                  name, url = extract_link_info(line)
+                  if name and url:
+                      norm_name = normalize_name(name)
+                      if norm_name not in existing_names and url not in existing_urls:
+                          print(f"Adding new game: {name}")
+                          new_lines.append(f"- [{name}]({url})")
+                          existing_names.add(norm_name)
+                          existing_urls.add(url)
+
+          if new_lines:
+              all_lines = local_lines + new_lines
+              all_lines.sort(key=lambda x: x.lower())
+              
+              new_content = header + START_MARKER + "\n\n" + "\n".join(all_lines) + "\n"
+              
+              with open(LOCAL_README, 'w', encoding='utf-8') as f:
+                  f.write(new_content)
+              print(f"Added {len(new_lines)} new entries.")
+          else:
+              print("No new entries found.")
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Sync with Awesome Game Decompilations" || echo "No changes to commit"
+          git push
