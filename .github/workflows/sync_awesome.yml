@@ -2,7 +2,7 @@ name: Sync with Awesome Game Decompilations
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # Runs every sunday basically
+    - cron: '0 0 * * *' # Runs everyday
   workflow_dispatch:
 
 jobs:
