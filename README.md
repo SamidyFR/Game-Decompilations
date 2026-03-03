@@ -10,7 +10,7 @@ Thanks to everyone who helped, Listed [Here!](https://github.com/SamidyFR/Game-D
 - The list is a Work in Progress (WIP). Still a bunch missing. If you want to help by fixing spelling mistakes, duplicates or just add more game decomps, read the [Contributing Guide!](https://github.com/SamidyFR/Game-Decompilations/blob/main/CONTRIBUTING.md)
 - **TIP: Use Ctrl+F To search for a Game decomp! This is listed in alphabetical order but the list is LONG, Which is why we recommend Ctrl+F**
 
-Last Updated: February 18th, 2026
+Last Updated: March 3rd, 2026
 
 Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decompilations) it will help out a ton.
 
@@ -106,6 +106,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Digimon World](https://github.com/solidheron/Digimon_World_1_decompolation)
 - [Dinosaur Planet](https://github.com/zestydevy/dinosaur-planet)
 - [Disney Piglet's Big Game](https://github.com/tgsm/pbg)
+- [Dog's Life](https://github.com/IWILLCRAFT-M0d/dogcomp)
 - [DOMA Days](https://github.com/iestyn129/DOMADays)
 - [Donald Land](https://github.com/brunovalads/donald-land)
 - [Donkey Kong '94](https://github.com/CelestialAmber/DKGBDisasm)
@@ -293,6 +294,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Minecraft: Legacy Console Edition](https://github.com/openblack/bw1-decompated/MinecraftLCE)
 - [Minecraft: Nintendo Switch Edition](https://github.com/granimated/MinecraftLCE)
 - [Minecraft: Pocket Edition](https://github.com/BrentDaMage/mcpe-engine)
+- [Minecraft: Xbox 360 Edition](https://github.com/LCERD/Minecraft-Xbox-360-Decompilation)
 - [Mischief Makers](https://github.com/drahsid/mischief-makers)
 - [Mixels Rush](https://github.com/Nugetinc/MixelsRushDecompilation)
 - [Mole Mania](https://github.com/froggestspirit/mmania)
@@ -387,6 +389,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Shin Megami Tensei](https://github.com/thecommandochicken/smt-decomp)
 - [Shining Force CD](https://github.com/ShiningForceCentral/SFCDDISASM)
 - [Shortline railroad](https://github.com/konovalov-aleks/reSL)
+- [Silent Hill 3](https://github.com/dreamingmoths/memory-of-alessa)
 - [Silent Hill](https://github.com/Vatuu/silent-hill-decomp)
 - [Skate](https://github.com/Skate-Modding-Team/Skate-Decompilation-Project)
 - [Skies of Arcadia Legends](https://github.com/rainchus/SkiesofArcadiaLegends)
@@ -558,6 +561,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Wii Menu](https://github.com/koopthekoopa/wii-ipl)
 - [Wii Sports](https://github.com/doldecomp/ogws)
 - [Wipeout](https://github.com/phoboslab/wipeout-rewrite)
+- [Wonder Project J2: Josette of the Corlo Forest](https://github.com/LLONSIT-glitch/wonder)
 - [World of Goo](https://github.com/Fancy2209/wog-wiiware)
 - [XD: Gale of Darkness](https://github.com/TeamOrre/xd-decomp)
 - [Xenoblade](https://github.com/xbret/xenoblade)
