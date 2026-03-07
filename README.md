@@ -6,7 +6,7 @@ Thanks to everyone who helped, Listed [Here!](https://github.com/SamidyFR/Game-D
 
 ### **NOTES:**
 
-- Some decomps are still unfinished and they need to be checked before downloading.  
+- Some decomps are still unfinished and they need to be checked before downloading.
 - The list is a Work in Progress (WIP). Still a bunch missing. If you want to help by fixing spelling mistakes, duplicates or just add more game decomps, read the [Contributing Guide!](https://github.com/SamidyFR/Game-Decompilations/blob/main/CONTRIBUTING.md)
 - **TIP: Use Ctrl+F To search for a Game decomp! This is listed in alphabetical order but the list is LONG, Which is why we recommend Ctrl+F**
 
@@ -386,7 +386,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Shadow Hearts](https://git.sr.ht/~benoitren/shadowheartsdecompilation)
 - [Shadow of the Colossus](https://github.com/Fantaskink/SOTC)
 - [Shadowgate 64](https://github.com/rainchus/shadowgate64)
-- [Shin Megami Tensei](https://github.com/thecommandochicken/smt-decomp)
+- [Shin Megami Tensei](https://codeberg.org/Chickenzes/smt-decomp)
 - [Shining Force CD](https://github.com/ShiningForceCentral/SFCDDISASM)
 - [Shortline railroad](https://github.com/konovalov-aleks/reSL)
 - [Silent Hill 3](https://github.com/dreamingmoths/memory-of-alessa)
