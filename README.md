@@ -10,7 +10,7 @@ Thanks to everyone who helped, Listed [Here!](https://github.com/SamidyFR/Game-D
 - The list is a Work in Progress (WIP). Still a bunch missing. If you want to help by fixing spelling mistakes, duplicates or just add more game decomps, read the [Contributing Guide!](https://github.com/SamidyFR/Game-Decompilations/blob/main/CONTRIBUTING.md)
 - **TIP: Use Ctrl+F To search for a Game decomp! This is listed in alphabetical order but the list is LONG, Which is why we recommend Ctrl+F**
 
-Last Updated: March 3rd, 2026
+Last Updated: March 9th, 2026
 
 Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decompilations) it will help out a ton.
 
@@ -224,6 +224,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Kirby & The Amazing Mirror](https://github.com/jiangzhengwenjz/katam)
 - [Kirby 64: The Crystal Shards](https://github.com/kirby64ret/kirby64)
 - [Kirby Air Ride](https://github.com/doldecomp/kar)
+- [Kirby's Dream Collection - Special Edition](https://github.com/Swiftshine/kdc)
 - [Kirby's Epic Yarn](https://github.com/swiftshine/key)
 - [Kirby's Return To Dreamland](https://github.com/ThePlayerRolo/KRTDLDecomp)
 - [Klonoa 2: Lunatea's Veil](https://github.com/entriphy/kl2_lv_decomp)
@@ -373,6 +374,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Resident Evil - Code: Veronica](https://github.com/fmil95/recv-dc-decomp)
 - [Resident Evil 2](https://github.com/OpenBiohazard2/OpenBiohazard2)
 - [Resident Evil: Dead Aim](https://github.com/cakehonolulu/Bullseye)
+- [Rhythm Heaven Fever](https://github.com/conhlee/rhf)
 - [Rhythm Heaven](https://github.com/patataofcourse/rhgold)
 - [Ridge Racer 64](https://github.com/jvicu2001/rr64-decomp)
 - [Ristar](https://github.com/sonicretro/ristar)
