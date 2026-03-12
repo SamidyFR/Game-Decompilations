@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      actions: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -126,9 +127,16 @@ jobs:
               print("No new entries found.")
 
       - name: Commit and push changes
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git commit -m "Sync with Awesome Game Decompilations" || echo "No changes to commit"
-          git push
+          if git commit -m "Sync with Awesome Game Decompilations"; then
+            git push
+            echo "Triggering Update Index from README workflow..."
+            gh workflow run update_index.yml
+          else
+            echo "No changes to commit, skipping update_index trigger."
+          fi
