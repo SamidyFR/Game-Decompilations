@@ -10,7 +10,7 @@ Thanks to everyone who helped, Listed [Here!](https://github.com/SamidyFR/Game-D
 - The list is a Work in Progress (WIP). Still a bunch missing. If you want to help by fixing spelling mistakes, duplicates or just add more game decomps, read the [Contributing Guide!](https://github.com/SamidyFR/Game-Decompilations/blob/main/CONTRIBUTING.md)
 - **TIP: Use Ctrl+F To search for a Game decomp! This is listed in alphabetical order but the list is LONG, Which is why we recommend Ctrl+F**
 
-Last Updated: March 9th, 2026
+Last Updated: March 16th, 2026
 
 Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decompilations) it will help out a ton.
 
@@ -234,6 +234,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Legacy of Kain: Soul Reaver](https://github.com/fmil95/soul-re)
 - [Legend of Dragoon](https://github.com/Legend-of-Dragoon-Modding/Legend-of-Dragoon-Java)
 - [Legend of Legaia](https://github.com/dacodechick/legaia-decomp)
+- [Legend of Mana](https://github.com/celophi/lom-decomp)
 - [LEGO Batman: The Videogame](https://github.com/mariopossamato/LEGO-Batman)
 - [Lego Battles](https://github.com/LiruJ/Lego-Battles-Decomp)
 - [Lego City Undercover](https://github.com/Nintendocustom/Lego-City-Undercover-Decompilation)
