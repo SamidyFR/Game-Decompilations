@@ -6,13 +6,13 @@ Thanks to everyone who helped, Listed [Here!](https://github.com/SamidyFR/Game-D
 
 ### **NOTES:**
 
-- Some decomps are still unfinished and they need to be checked before downloading.
-- The list is a Work in Progress (WIP). Still a bunch missing. If you want to help by fixing spelling mistakes, duplicates or just add more game decomps, read the [Contributing Guide!](https://github.com/SamidyFR/Game-Decompilations/blob/main/CONTRIBUTING.md)
-- **TIP: Use Ctrl+F To search for a Game decomp! This is listed in alphabetical order but the list is LONG, Which is why we recommend Ctrl+F**
+- Some decomps are still unfinished. It's reccomended you check before downloading.
+- The list is a work-in-progress. Stuff may be missing. If you want to help out by fixing errors or adding other game decomps, read the [contributing guide!](https://github.com/SamidyFR/Game-Decompilations/blob/main/CONTRIBUTING.md)
+- **TIP: Use Ctrl+F To search for a Game decomp! This is listed in alphabetical order, but it's LONG.**
 
-Last Updated: March 16th, 2026
+Last Updated: March 22nd, 2026
 
-Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decompilations) it will help out a ton.
+Like what you see? [⭐ the Github repo!](https://github.com/SamidyFR/Game-Decompilations) it will help out a ton.
 
 - [3D Maze](https://github.com/x86matthew/Playable3DMaze)
 - [Advance Wars 2: Black Hole Rising](https://github.com/Eebit/aw2bhr)
