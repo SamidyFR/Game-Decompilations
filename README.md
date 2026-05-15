@@ -530,6 +530,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [The Lord of the Rings: Return of the King](https://github.com/crimsonmagick/lotr-rotk)
 - [The New Tetris](https://github.com/kiritodv/tnt)
 - [The Settlers I](https://github.com/freeserf/freeserf)
+- [The Sims 2](https://github.com/natebag/Sims2DECOMP)
 - [The Sims 2 (GBA)](https://github.com/SimsAdvanceRet/S2GBADecomp)
 - [The Sims 2: Castaway](https://github.com/HaydnTrigg/Castaway)
 - [The Sims 2: Castaways](https://github.com/simdecomp/ts2c)
@@ -594,4 +595,3 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Zone of the Enders 2](https://github.com/GirianSeed/zoe2)
 - [Zone of the Enders 3 (Guy Savage from Metal Gear Solid 3)](https://github.com/GirianSeed/zoe3)
 - [Zuma Deluxe](https://github.com/alula/CircleShootApp)
-- [⚠️ The Sims 2](https://github.com/natebag/Sims2DECOMP)
