@@ -68,7 +68,7 @@ jobs:
                       new_index_content = re.sub(ul_pattern, lambda m: m.group(1) + new_inner_html + m.group(3), index_content, flags=re.DOTALL)
                       
                       # Update Last Updated Date
-                                            date_pattern = r'<li>Last Updated: .*?</li>'
+                      date_pattern = r'<li>Last Updated: .*?</li>'
                       new_index_content = re.sub(date_pattern, f'<li>Last Updated: {current_date}</li>', new_index_content)
 
                       with open(index_path, 'w', encoding='utf-8') as f:
