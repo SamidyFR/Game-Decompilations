@@ -548,6 +548,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Touhou 08: Imperishable Night](https://github.com/GensokyoClub/th08)
 - [Touhou Koumakyou: The Embodiment of Scarlet Devil](https://github.com/happyhavoc/th06)
 - [Touhou PC-98](https://github.com/nmlgc/ReC98)
+- [Toy Story 2](https://github.com/0danny/toy2-decomp)
 - [Transformers: Mystery Of Convoy](https://github.com/Fixatron/TFRom-Recreation)
 - [Treasure Planet](https://github.com/Colt-Zero/Thousand-Worlds)
 - [Tube](https://github.com/rep-stosw/tube64)
