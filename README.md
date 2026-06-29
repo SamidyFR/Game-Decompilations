@@ -10,7 +10,7 @@ Thanks to everyone who helped, Listed [Here!](https://github.com/SamidyFR/Game-D
 - The list is a Work in Progress (WIP). Still a bunch missing. If you want to help by fixing spelling mistakes, duplicates or just add more game decomps, read the [Contributing Guide!](https://github.com/SamidyFR/Game-Decompilations/blob/main/CONTRIBUTING.md)
 - **TIP: Use Ctrl+F To search for a Game decomp! This is listed in alphabetical order but the list is LONG, Which is why we recommend Ctrl+F**
 
-Last Updated: April 26th, 2026
+Last Updated: June 29th, 2026
 
 Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decompilations) it will help out a ton.
 
@@ -390,6 +390,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Ridge Racer 64](https://github.com/jvicu2001/rr64-decomp)
 - [Ristar](https://github.com/sonicretro/ristar)
 - [Rock Band 3 (Nintendo DS)](https://github.com/ieee802dot11ac/rb3ds)
+- [Rock Band 3 (Xbox 360)](https://github.com/ihatecompvir/band3_recomp)
 - [Rock Band 3](https://github.com/DarkRTA/rb3)
 - [Rocket: Robot on Wheels](https://github.com/RocketRet/Rocket-Robot-On-Wheels)
 - [Rumble Fighter](https://github.com/Primitheus/rumbledecomp)
@@ -530,10 +531,10 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [The Lord of the Rings: Return of the King](https://github.com/crimsonmagick/lotr-rotk)
 - [The New Tetris](https://github.com/kiritodv/tnt)
 - [The Settlers I](https://github.com/freeserf/freeserf)
-- [The Sims 2](https://github.com/natebag/Sims2DECOMP)
 - [The Sims 2 (GBA)](https://github.com/SimsAdvanceRet/S2GBADecomp)
 - [The Sims 2: Castaway](https://github.com/HaydnTrigg/Castaway)
 - [The Sims 2: Castaways](https://github.com/simdecomp/ts2c)
+- [The Sims 2](https://github.com/natebag/Sims2DECOMP)
 - [The Sims: Bustin' Out](https://github.com/SimsAdvanceRet/BustinOutGBADecomp)
 - [The Spongebob Squarepants Movie](https://decomp.dev/bfbbdecomp/tssm)
 - [The Urbz: Sims in the City](https://github.com/SimsAdvanceRet/UrbzGBADecomp)
