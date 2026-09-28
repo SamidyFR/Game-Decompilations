@@ -58,6 +58,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Bomberman 64: The Second Attack!](https://github.com/bomberhackers/tsa)
 - [Bomberman 64](https://github.com/bomberhackers/bm64)
 - [Bomberman Hero](https://github.com/bomberhackers/bmhero)
+- [Boss Rally](https://github.com/jeff-strutb/brally)
 - [Bounce](https://github.com/misterjdrg/Bouncer)
 - [Brave Frontier](https://github.com/decompfrontier/client)
 - [Breath Of Fire](https://github.com/Normmatt/bof)
