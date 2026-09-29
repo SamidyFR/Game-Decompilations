@@ -10,7 +10,7 @@ Thanks to everyone who helped, Listed [Here!](https://github.com/SamidyFR/Game-D
 - The list is a Work in Progress (WIP). Still a bunch missing. If you want to help by fixing spelling mistakes, duplicates or just add more game decomps, read the [Contributing Guide!](https://github.com/SamidyFR/Game-Decompilations/blob/main/CONTRIBUTING.md)
 - **TIP: Use Ctrl+F To search for a Game decomp! This is listed in alphabetical order but the list is LONG, Which is why we recommend Ctrl+F**
 
-Last Updated: June 29th, 2026
+Last Updated: September 29th, 2026
 
 Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decompilations) it will help out a ton.
 
@@ -464,6 +464,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Shadowgate 64](https://github.com/rainchus/shadowgate64)
 - [Shaun Palmer's Pro Snowboarder](https://github.com/Daniel-McCarthy/SPPS)
 - [Sheep Dog n' Wolf / Sheep Raider](https://github.com/lace22l/sheep-dog-n-wolf-decomp)
+- [Sheep, Dog 'n' Wolf / Sheep Raider](https://github.com/SheepStealer2001/sdw-decomp) (SheepStealer2001)
 - [Shin Megami Tensei](https://codeberg.org/Chickenzes/smt-decomp)
 - [Shining Force CD](https://github.com/ShiningForceCentral/SFCDDISASM)
 - [Shortline railroad](https://github.com/konovalov-aleks/reSL)
