@@ -62,6 +62,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Bomberman 64: The Second Attack!](https://github.com/bomberhackers/tsa)
 - [Bomberman 64](https://github.com/bomberhackers/bm64)
 - [Bomberman Hero](https://github.com/bomberhackers/bmhero)
+- [Boss Rally](https://github.com/jeff-strutb/brally)
 - [Bomberman Land Touch 2](https://github.com/gamemasterplc/bltouch2)
 - [Bounce](https://github.com/misterjdrg/Bouncer)
 - [Brave Fencer Musashi](https://github.com/Druthulu/BFM-decomp)
