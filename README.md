@@ -229,6 +229,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Gran Turismo 2](https://github.com/ginryuoku/gt2-reversing)
 - [Grand Theft Auto 2](https://github.com/CriminalRETeam/gta2_re)
 - [Grand Theft Auto III / Grand Theft Auto: Vice City](https://github.com/Cai1Hsu/re3) | [Download Compiled Version](https://archive.org/details/gta-3-gta-vc-re_20210222_0707_20211010_0949/GTAModding%20REVC%26RE3%20backup/Archive%20org%20backup/1.jpg)
+- [Grand Theft Auto: Chinatown Wars](https://github.com/official-kryo-to/ctw-native/tree/main/port) | [PC Port](https://github.com/official-kryo-to/ctw-native)
 - [Granny](https://github.com/scd5dev/GrannyDecompilation)
 - [Green Farm 3](https://github.com/SmithGoll/Greenier-Farm-3-Decomp)
 - [Guilty Gear X Plus](https://github.com/WistfulHopes/ggx)
