@@ -153,6 +153,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Doraemon: Nobita to Mittsu no Seireiseki](https://github.com/prakxo/doraemon1)
 - [Doshin the Giant](https://github.com/break-core/doshin-gc)
 - [Double Dragon II: The Revenge](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Double%20Dragon%20II)
+- [Down in the Dumps (Recomp)](https://github.com/itsDNNS/DownInTheDumpsRecomp)
 - [Dr. Brain Action Reaction](https://github.com/SirHenricus/DrBrainActionReaction_PackageDecomp)
 - [Dr. Mario 64](https://github.com/angheloalf/drmario64)
 - [Dr.Mario](https://github.com/Nostaljipi/dr-mario-disassembly)
