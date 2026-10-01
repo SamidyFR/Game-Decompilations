@@ -10,7 +10,7 @@ Thanks to everyone who helped, Listed [Here!](https://github.com/SamidyFR/Game-D
 - The list is a Work in Progress (WIP). Still a bunch missing. If you want to help by fixing spelling mistakes, duplicates or just add more game decomps, read the [Contributing Guide!](https://github.com/SamidyFR/Game-Decompilations/blob/main/CONTRIBUTING.md)
 - **TIP: Use Ctrl+F To search for a Game decomp! This is listed in alphabetical order but the list is LONG, Which is why we recommend Ctrl+F**
 
-Last Updated: September 29th, 2026
+Last Updated: October 1st, 2026
 
 Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decompilations) it will help out a ton.
 
@@ -232,6 +232,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Grand Theft Auto: Chinatown Wars](https://github.com/official-kryo-to/ctw-native/tree/main/port) | [PC Port](https://github.com/official-kryo-to/ctw-native)
 - [Granny](https://github.com/scd5dev/GrannyDecompilation)
 - [Green Farm 3](https://github.com/SmithGoll/Greenier-Farm-3-Decomp)
+- [GTI Club 2 / GTI Club: Corso Italiano / Driving Party: Racing in Italy (Recomp)](https://github.com/spita90/konami-viper-recomp)
 - [Guilty Gear X Plus](https://github.com/WistfulHopes/ggx)
 - [Guitar Hero 2](https://github.com/YoshiCrystal9/re-gh2)
 - [Guitar Hero: Warriors of Rock](https://github.com/kernaltrap8/WoR-Plus)
@@ -622,6 +623,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [The Spongebob Squarepants Movie](https://decomp.dev/bfbbdecomp/tssm)
 - [The Urbz: Sims in the City](https://github.com/SimsAdvanceRet/UrbzGBADecomp)
 - [The World Ends with You](https://github.com/Yotona/twewy)
+- [Thrill Drive 2 (Recomp)](https://github.com/spita90/konami-viper-recomp)
 - [Tiger Woods PGA Tour 2004](https://github.com/mitsevox/tw2004)
 - [Tokimeki Memorial: Forever With You](https://github.com/CelestialAmber/tokimemo)
 - [Tokyo Bus Guide](https://github.com/lhsazevedo/tbg-decomp)
