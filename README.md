@@ -262,6 +262,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Johnny Herbert's Grand Prix Championship 1998](https://github.com/danvratil/jhgpc98decomp)
 - [Jumping Flash](https://github.com/NotExactlySiev/aloha)
 - [Jurassic Park: Operation Genesis](https://github.com/AdventureT/OpenJPOG)
+- [Ka'roo (rewrite)](https://github.com/Cahb/skippy-re)
 - [Kid Chameleon](https://github.com/sonicretro/kid-chameleon-disasm)
 - [Kinect Sports](https://github.com/SebaaMG/Kinect-Sports-Decomp)
 - [Kingdom Hearts](https://github.com/ethteck/kh1)
