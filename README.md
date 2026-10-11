@@ -284,7 +284,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Legend of Dragoon](https://github.com/Legend-of-Dragoon-Modding/Legend-of-Dragoon-Java)
 - [Legend of Legaia](https://github.com/dacodechick/legaia-decomp)
 - [Legend of Mana](https://github.com/celophi/lom-decomp)
-- [LEGO Batman: The Videogame](https://github.com/mariopossamato/LEGO-Batman)
+- [LEGO Batman: The Videogame](https://github.com/wasdhjklxyz/lbtvg)
 - [Lego Battles](https://github.com/LiruJ/Lego-Battles-Decomp)
 - [Lego City Undercover](https://github.com/Nintendocustom/Lego-City-Undercover-Decompilation)
 - [Lego Creator Knights Kingdom](https://github.com/DavidGrice/knightskingdom)
