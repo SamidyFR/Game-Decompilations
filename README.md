@@ -294,6 +294,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Lego Star Wars III: The Clone Wars](https://decomp.dev/ThePlayerRolo/LegoCloneWarsWii)
 - [Lemmings Paintball](https://github.com/vonhoff/lemball-decomp)
 - [Link's Awakening (Switch)](https://github.com/Owen-Splat/las-decomp)
+- [Little Big Adventure 2 (Twinsen's Odyssey)](https://github.com/LBALab/lba2-classic-community)
 - [Lock's Quest](https://github.com/redraincatching/locksmith)
 - [Looney Tunes: Carrot Crazy](https://github.com/huderlem/carrotcrazy)
 - [LSD Dream Emulator](https://github.com/FirecatFG/lsddecomp)
