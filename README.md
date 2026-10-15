@@ -73,6 +73,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Bumpy's Arcade Fantasy](https://github.com/GeReV/bumpy-reverse)
 - [Burnout Paradise](https://github.com/BurnoutHints/b5-decomp)
 - [Captain Toad: Treasure Tracker](https://github.com/Moddimation/KinokoDecomp-S)
+- [Call of Duty: United Offensive (Multiplayer)](https://github.com/opencoduo/coduomp)
 - [Carmageddon](https://github.com/dethrace-labs/dethrace)
 - [Castlevania 64](https://github.com/blazkowolf/cv64)
 - [Castlevania: Aria of Sorrow](https://github.com/testyourmine/cvaos)
