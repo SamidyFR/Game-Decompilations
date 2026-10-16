@@ -294,6 +294,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Lego Island](https://github.com/isledecomp/isle) | [Isle Portable (Used to port Lego Island to Other Platforms)](https://github.com/isledecomp/isle-portable)
 - [Lego Racers](https://github.com/marijnvdwerf/lego-racers)
 - [Lego Star Wars III: The Clone Wars](https://decomp.dev/ThePlayerRolo/LegoCloneWarsWii)
+- [Lego Star Wars: The Complete Saga](https://github.com/opensagadev/saga)
 - [Lemmings Paintball](https://github.com/vonhoff/lemball-decomp)
 - [Link's Awakening (Switch)](https://github.com/Owen-Splat/las-decomp)
 - [Lock's Quest](https://github.com/redraincatching/locksmith)
