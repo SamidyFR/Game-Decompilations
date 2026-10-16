@@ -267,6 +267,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Kinect Sports](https://github.com/SebaaMG/Kinect-Sports-Decomp)
 - [Kingdom Hearts: Chain of Memories](https://github.com/Pheenoh/khcom)
 - [Kingdom Hearts](https://github.com/ethteck/kh1)
+- [King's Field 2](https://github.com/snzhkhd/King-s-Field-PC)
 - [Kirby & The Amazing Mirror](https://github.com/jiangzhengwenjz/katam)
 - [Kirby 64: The Crystal Shards](https://github.com/kirby64ret/kirby64)
 - [Kirby Air Ride](https://github.com/doldecomp/kar)
