@@ -72,6 +72,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Bugs Bunny: Lost in Time!](https://github.com/quantumdude836/BugsDecomp)
 - [Bumpy's Arcade Fantasy](https://github.com/GeReV/bumpy-reverse)
 - [Burnout Paradise](https://github.com/BurnoutHints/b5-decomp)
+- [Call of Duty: United Offensive (Multiplayer)](https://github.com/opencoduo/coduomp)
 - [Captain Toad: Treasure Tracker](https://github.com/Moddimation/KinokoDecomp-S)
 - [Carmageddon](https://github.com/dethrace-labs/dethrace)
 - [Castlevania 64](https://github.com/blazkowolf/cv64)
