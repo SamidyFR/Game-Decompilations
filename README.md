@@ -210,7 +210,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [FlatOut: Ultimate Carnage](https://github.com/ZackWilde27/FlatOut-UC-Decomp)
 - [Ford Racing](https://github.com/dashr9230/Gt2)
 - [Fortune Street](https://github.com/FortuneStreetModding/boom-street-decomp)
-- [Freedom Fighters](https://github.com/andresj-sanchez/frfi-decomp)
+- [Freedom Fighters](https://github.com/andresj-sanchez/frfi-decomp) | [PC Decompilation](https://github.com/kaustubhxd/ReFreedomFighters)
 - [Frogger's Adventures: Temple of the Frog](https://github.com/JRickey/frog-adv-temple-decomp)
 - [Frogger: He's Back!](https://github.com/HighwayFrogs/frogger-psx)
 - [FUEL](https://github.com/widberg/FUELDecompilation)
