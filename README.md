@@ -444,6 +444,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Quest 64](https://github.com/rainchus/quest64-decomp)
 - [Rabbids Go Home](https://github.com/rghdecomp/rgh)
 - [Radio Helicopter](https://github.com/Bsquo/pcopter_wii)
+- [Race Driver: GRID](https://github.com/PipeKnight/drig-race-driver)
 - [Rage Racer](https://github.com/khasinski/rage-racer-decomp)
 - [Ratatouille](https://github.com/ZounaDecomp/RatDecomp)
 - [Ratchet & Clank (PS2 Quadrilogy)](https://github.com/VELD-Dev/Pyrocitor)
