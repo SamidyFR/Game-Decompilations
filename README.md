@@ -10,7 +10,7 @@ Thanks to everyone who helped, Listed [Here!](https://github.com/SamidyFR/Game-D
 - The list is a Work in Progress (WIP). Still a bunch missing. If you want to help by fixing spelling mistakes, duplicates or just add more game decomps, read the [Contributing Guide!](https://github.com/SamidyFR/Game-Decompilations/blob/main/CONTRIBUTING.md)
 - **TIP: Use Ctrl+F To search for a Game decomp! This is listed in alphabetical order but the list is LONG, Which is why we recommend Ctrl+F**
 
-Last Updated: October 17th, 2026
+Last Updated: October 21st, 2026
 
 Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decompilations) it will help out a ton.
 
@@ -47,6 +47,9 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Barnyard](https://github.com/InfiniteC0re/OpenBarnyard)
 - [Battle City](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Battle%20City)
 - [Battlefield 2](https://github.com/kiwidoggie/breadflowerdos)
+- [BattleTanx: Global Assault (Native PC Port)](https://github.com/TheGh0stShip/BattleTanx-Global-Assault-PC-Port)
+- [BattleTanx: Global Assault](https://github.com/TheGh0stShip/BattleTanx-Global-Assault)
+- [BattleTanx](https://github.com/TheGh0stShip/BattleTanx-GBC)
 - [Beetle Adventure Racing!](https://github.com/synamaxmusic/bar-decomp)
 - [Beyblade VForce: Ultimate Blader Jam](https://github.com/marijnvdwerf/gba-beyblade-vforce)
 - [Big Brain Academy: Wii Degree](https://github.com/vabold/bba-wd)
@@ -74,8 +77,8 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Burnout Paradise](https://github.com/BurnoutHints/b5-decomp)
 - [Call of Duty: United Offensive (Multiplayer)](https://github.com/opencoduo/coduomp)
 - [Captain Toad: Treasure Tracker](https://github.com/Moddimation/KinokoDecomp-S)
-- [Carmageddon](https://github.com/dethrace-labs/dethrace)
 - [Carmageddon 2](https://github.com/Link4Electronics/Carpocalypse2)
+- [Carmageddon](https://github.com/dethrace-labs/dethrace)
 - [Castlevania 64](https://github.com/blazkowolf/cv64)
 - [Castlevania: Aria of Sorrow](https://github.com/testyourmine/cvaos)
 - [Castlevania: Order of Ecclesia](https://github.com/lagolunatic/ooe)
@@ -268,9 +271,9 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Jurassic Park: Operation Genesis](https://github.com/AdventureT/OpenJPOG)
 - [Kid Chameleon](https://github.com/sonicretro/kid-chameleon-disasm)
 - [Kinect Sports](https://github.com/SebaaMG/Kinect-Sports-Decomp)
+- [King's Field 2](https://github.com/snzhkhd/King-s-Field-PC)
 - [Kingdom Hearts: Chain of Memories](https://github.com/Pheenoh/khcom)
 - [Kingdom Hearts](https://github.com/ethteck/kh1)
-- [King's Field 2](https://github.com/snzhkhd/King-s-Field-PC)
 - [Kirby & The Amazing Mirror](https://github.com/jiangzhengwenjz/katam)
 - [Kirby 64: The Crystal Shards](https://github.com/kirby64ret/kirby64)
 - [Kirby Air Ride](https://github.com/doldecomp/kar)
@@ -695,5 +698,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [⚠️ Battle City (Browser reimplementation)](https://github.com/vgrichina/battlecity)
 - [⚠️ Dead or Alive Extreme 2](https://github.com/Revan67/DOAX2-Recomp)
 - [⚠️ Lord of the Rings; The Third Age](https://github.com/Revan67/ThirdAge-Recomp)
+- [⚠️ Mickey Saves the Day 3D Adventure](https://github.com/Japabu/mickey-saves-the-day-3d-adventure)
+- [⚠️ Ninja Master - Shinobi III](https://github.com/krazyjakee/ninja-master)
 - [⚠️ Rumble Roses XX](https://github.com/Revan67/RumbleRosesXX-Recomp)
 - [⚠️ Star Fox Adventures (Retail)](https://github.com/zcanann/SFA-Decomp)
