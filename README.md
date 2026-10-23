@@ -443,6 +443,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Project Gotham Racing 4 (Recomp)](https://github.com/beatrixzy/PGR4-Recomp)
 - [Quest 64](https://github.com/rainchus/quest64-decomp)
 - [Rabbids Go Home](https://github.com/rghdecomp/rgh)
+- [Race Driver: GRID](https://github.com/PipeKnight/drig-race-driver)
 - [Radio Helicopter](https://github.com/Bsquo/pcopter_wii)
 - [Rage Racer](https://github.com/khasinski/rage-racer-decomp)
 - [Ratatouille](https://github.com/ZounaDecomp/RatDecomp)
