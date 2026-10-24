@@ -77,7 +77,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Burnout Paradise](https://github.com/BurnoutHints/b5-decomp)
 - [Call of Duty: United Offensive (Multiplayer)](https://github.com/opencoduo/coduomp)
 - [Captain Toad: Treasure Tracker](https://github.com/Moddimation/KinokoDecomp-S)
-- [Carmageddon 2](https://github.com/Link4Electronics/Carpocalypse2)
+- [Carmageddon 2](https://github.com/madebr/rec2)
 - [Carmageddon](https://github.com/dethrace-labs/dethrace)
 - [Castlevania 64](https://github.com/blazkowolf/cv64)
 - [Castlevania: Aria of Sorrow](https://github.com/testyourmine/cvaos)
