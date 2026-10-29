@@ -48,6 +48,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Battle City](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Battle%20City)
 - [Battlefield 2](https://github.com/kiwidoggie/breadflowerdos)
 - [BattleTanx: Global Assault (Native PC Port)](https://github.com/TheGh0stShip/BattleTanx-Global-Assault-PC-Port)
+- [BattleTanx: Global Assault (PS1)](https://github.com/TheGh0stShip/BattleTanx-Global-Assault-PS1)
 - [BattleTanx: Global Assault](https://github.com/TheGh0stShip/BattleTanx-Global-Assault)
 - [BattleTanx](https://github.com/TheGh0stShip/BattleTanx-GBC)
 - [Beetle Adventure Racing!](https://github.com/synamaxmusic/bar-decomp)
