@@ -189,6 +189,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [F-Zero X (G-Diffuser)](https://github.com/Zorkats/G-Diffuser)
 - [F-Zero X Expansion Kit](https://github.com/inspectredc/fzerox-expansion-kit)
 - [F-Zero X](https://github.com/inspectredc/fzerox)
+- [Fallout 1](https://github.com/alexbatalov/fallout1-re)
 - [Fallout 2](https://github.com/alexbatalov/fallout2-re)
 - [Fatal Frame 1](https://github.com/mikompilation/himuro)
 - [Fatal Frame 2](https://github.com/mikompilation/minakami)
