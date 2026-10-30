@@ -382,6 +382,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Need For Speed: High Stakes](https://github.com/OpenNFS/NFSHSX)
 - [Need for Speed: Most Wanted](https://github.com/dbalatoni13/nfsmw)
 - [Need for Speed: Underground](https://github.com/dbalatoni13/nfsug)
+- [Nagano Winter Olympics '98](https://github.com/TheGh0stShip/Nagano-Winter-Olympics-98-N64)
 - [Neon Genesis Evangelion 64](https://github.com/farisawan-2000/evangelion) | [PC Port](https://github.com/evaa-01/adam)
 - [New Play Control! Pikmin 2](https://github.com/projectPiki/pik2wii)
 - [New Play Control! Pikmin](https://github.com/projectPiki/pik1wii)
