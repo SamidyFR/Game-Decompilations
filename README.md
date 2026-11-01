@@ -408,6 +408,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Paper Mario 64 (PaperBoat)](https://github.com/HarbourMasters/PaperBoat)
 - [Paper Mario: Sticker Star](https://github.com/darxoon/leaflitter)
 - [Paper Mario: The Thousand-Year Door](https://github.com/doldecomp/ttyd)
+- [Paper Mario: The Thousand-Year Door (all seven versions)](https://github.com/LLCOOLT/ttyd)
 - [Paper Mario](https://github.com/pmret/papermario)
 - [PaRappa the Rapper 2](https://github.com/parappadev/parappa2)
 - [Perfect Dark (Dab's Mod)](https://github.com/DabDavis/perfect-dark-dabs-mod)
