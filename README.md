@@ -606,6 +606,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Taiko No Tatsujin Wii Ketteiban](https://github.com/CalebPancake/Taiko-No-Tatsujin-Wii-Ketteiban)
 - [Team Buddies](https://github.com/hcbt/tbuddies-decomp)
 - [Tecmo World Cup Soccer](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Tecmo%20World%20Cup%20Soccer)
+- [Tekken: Dark Resurrection (PSP Recomp)](https://github.com/gasparegas/tkdr-recomp)
 - [Temple Run](https://github.com/SnesFX/Temple-De-Run)
 - [Tennis (NES)](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Tennis), [2](https://github.com/CelestialAmber/TetrisNESDisasm)
 - [Terminator Salvation](https://github.com/connieprice/Terminator-Salvation-Lua)
