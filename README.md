@@ -10,7 +10,7 @@ Thanks to everyone who helped, Listed [Here!](https://github.com/SamidyFR/Game-D
 - The list is a Work in Progress (WIP). Still a bunch missing. If you want to help by fixing spelling mistakes, duplicates or just add more game decomps, read the [Contributing Guide!](https://github.com/SamidyFR/Game-Decompilations/blob/main/CONTRIBUTING.md)
 - **TIP: Use Ctrl+F To search for a Game decomp! This is listed in alphabetical order but the list is LONG, Which is why we recommend Ctrl+F**
 
-Last Updated: October 31st, 2026
+Last Updated: November 2nd, 2026
 
 Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decompilations) it will help out a ton.
 
@@ -377,13 +377,13 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Mortal Kombat: Deception](https://github.com/ShulkMaster/mk-deception)
 - [Mother 1+2 (Japan)](https://github.com/Normmatt/m12)
 - [Mystical Ninja Starring Goemon](https://github.com/klorfmorf/mnsg)
+- [Nagano Winter Olympics '98](https://github.com/TheGh0stShip/Nagano-Winter-Olympics-98-N64)
 - [Naruto: Gekitō Ninja Taisen! 4](https://github.com/doldecomp/gnt4)
 - [Need For Speed 1-6](https://github.com/OpenNFS/OpenNFS)
 - [Need for Speed: High Stakes (PS1)](https://github.com/Caesar0007/NFSHS-PSX-decomp)
 - [Need For Speed: High Stakes](https://github.com/OpenNFS/NFSHSX)
 - [Need for Speed: Most Wanted](https://github.com/dbalatoni13/nfsmw)
 - [Need for Speed: Underground](https://github.com/dbalatoni13/nfsug)
-- [Nagano Winter Olympics '98](https://github.com/TheGh0stShip/Nagano-Winter-Olympics-98-N64)
 - [Neon Genesis Evangelion 64](https://github.com/farisawan-2000/evangelion) | [PC Port](https://github.com/evaa-01/adam)
 - [New Play Control! Pikmin 2](https://github.com/projectPiki/pik2wii)
 - [New Play Control! Pikmin](https://github.com/projectPiki/pik1wii)
@@ -715,5 +715,6 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [⚠️ Battle City (Browser reimplementation)](https://github.com/vgrichina/battlecity)
 - [⚠️ Dead or Alive Extreme 2](https://github.com/Revan67/DOAX2-Recomp)
 - [⚠️ Lord of the Rings; The Third Age](https://github.com/Revan67/ThirdAge-Recomp)
+- [⚠️ Power Strike (Disassembly + reskin toolkit)](https://github.com/noema-lands/power-strike-teardown)
 - [⚠️ Rumble Roses XX](https://github.com/Revan67/RumbleRosesXX-Recomp)
 - [⚠️ Star Fox Adventures (Retail)](https://github.com/zcanann/SFA-Decomp)
