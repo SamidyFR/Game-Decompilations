@@ -310,7 +310,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Lock's Quest](https://github.com/redraincatching/locksmith)
 - [Looney Tunes: Carrot Crazy](https://github.com/huderlem/carrotcrazy)
 - [LSD Dream Emulator](https://github.com/FirecatFG/lsddecomp)
-- [Lufia II - Rise of the Sinistrals](https://github.com/Cellenseres/Lufia2Decomp) | [Recompilation](https://github.com/Cellenseres/Lufia2SNESRecompf)
+- [Lufia II - Rise of the Sinistrals](https://github.com/Cellenseres/Lufia2Decomp) | [Recompilation](https://github.com/Cellenseres/Lufia2SNESRecomp)
 - [Luigi's Mansion](https://github.com/sage-of-mirrors/zmansion)
 - [Lunar 2: Eternal Blue](https://github.com/Zackmon/lunar2-psx-decomp)
 - [Mafia: The City of Lost Heaven](https://github.com/Marvisak/mafia-re)
