@@ -10,7 +10,7 @@ Thanks to everyone who helped, Listed [Here!](https://github.com/SamidyFR/Game-D
 - The list is a Work in Progress (WIP). Still a bunch missing. If you want to help by fixing spelling mistakes, duplicates or just add more game decomps, read the [Contributing Guide!](https://github.com/SamidyFR/Game-Decompilations/blob/main/CONTRIBUTING.md)
 - **TIP: Use Ctrl+F To search for a Game decomp! This is listed in alphabetical order but the list is LONG, Which is why we recommend Ctrl+F**
 
-Last Updated: November 2nd, 2026
+Last Updated: November 13nd, 2026
 
 Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decompilations) it will help out a ton.
 
@@ -113,6 +113,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Crash Tag Team Racing](https://github.com/bluisblu/cttr)
 - [Crash Team Racing (High Octane)](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane)
 - [Crash Team Racing](https://github.com/CTR-Tools/CTR-ModSDK)
+- [Crazy Taxi](https://github.com/consolesplayingconsoles/crazy-taxi-decomp/)
 - [Creatures 2](https://github.com/xylolfrei/CREATURES-II-DECOMPILATION-PROJECT)
 - [Crimsonland](https://github.com/banteg/crimson)
 - [Croc: Legend of the Gobbos](https://github.com/xeeynamo/croc)
@@ -166,6 +167,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Dr.Mario](https://github.com/Nostaljipi/dr-mario-disassembly)
 - [Dragon Ball Legends](https://github.com/GodkuHacking/Dragon-Ball-Legends)
 - [Dragon Ball Z: Budokai 2](https://github.com/TotallyNotMichael-GH/dbz2)
+- [Dragon Ball Z: Budokai Tenkaichi 4](https://github.com/NauTaro/DBZ-BT4-Tag-Team-Decomp)
 - [Dragon Quest IV](https://github.com/GoldieLeGenie/DQIV-DECOMP)
 - [Dragon Quest IX](https://github.com/DQIX/dqix-decomp)
 - [Dragon Warrior Monsters (German)](https://github.com/Ebernacher90/DragonQuestMonstersGerman)
@@ -236,6 +238,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [GoldenEye 007](https://gitlab.com/kholdfuzion/goldeneye_src)
 - [Goof Troop](https://github.com/Yoshifanatic1/Goof-Troop-Disassembly)
 - [Gran Turismo 2](https://github.com/ginryuoku/gt2-reversing)
+- [Grand Theft Auto Advanced](https://github.com/AnriTool/AdvanceLiberty-Enhanced)
 - [Grand Theft Auto 2](https://github.com/CriminalRETeam/gta2_re)
 - [Grand Theft Auto III / Grand Theft Auto: Vice City](https://github.com/Cai1Hsu/re3) | [Download Compiled Version](https://archive.org/details/gta-3-gta-vc-re_20210222_0707_20211010_0949/GTAModding%20REVC%26RE3%20backup/Archive%20org%20backup/1.jpg)
 - [Grand Theft Auto: Chinatown Wars](https://github.com/official-kryo-to/ctw-native/tree/main/port) | [PC Port](https://github.com/official-kryo-to/ctw-native)
@@ -295,6 +298,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Legacy of Kain: Soul Reaver](https://github.com/fmil95/soul-re)
 - [Legend of Dragoon](https://github.com/Legend-of-Dragoon-Modding/Legend-of-Dragoon-Java)
 - [Legend of Legaia](https://github.com/dacodechick/legaia-decomp)
+- [Legaia 2: Duel Saga](https://github.com/WeAreTommyBruh/Legaia2-Decomp)
 - [Legend of Mana](https://github.com/celophi/lom-decomp)
 - [LEGO Batman: The Videogame](https://github.com/wasdhjklxyz/lbtvg)
 - [Lego Battles](https://github.com/LiruJ/Lego-Battles-Decomp)
@@ -484,6 +488,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Runescape (2003)](https://github.com/2003scape/rsc-c)
 - [Samurai Vs Zombies](https://github.com/Decomp-And-Recomp/Samurai-Vs-Zombies)
 - [Saw II: Flesh & Blood](https://github.com/ant0-blase/Saw2-X360-ReXGlue)
+- [Sengoku Basara 4 Sumeragi]()
 - [Serial Experiments Lain](https://github.com/Y0oshi/lain-psx-decompiled)
 - [Shadow Hearts](https://git.sr.ht/~benoitren/shadowheartsdecompilation)
 - [Shadow of the Colossus](https://github.com/Fantaskink/SOTC)
@@ -586,6 +591,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Super Mario Land 2: Six Golden Coins](https://github.com/froggestspirit/marioland2)
 - [Super Mario Land 3: Wario Land](https://github.com/Kak2X/wl)
 - [Super Mario Land](https://github.com/kaspermeerts/supermarioland)
+- [Super Mario Maker 2](https://github.com/smm2recomp/smm2recomp)
 - [Super Mario Odyssey](https://github.com/MonsterDruide1/OdysseyDecomp)
 - [Super Mario RPG](https://github.com/Yoshifanatic1/Super-Mario-RPG-Disassembly)
 - [Super Mario Strikers (PC Port)](https://github.com/new-coke/strikers)
@@ -621,7 +627,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [The Italian Job](https://github.com/dashr9230/Caper)
 - [The Journeyman Project Turbo!](https://github.com/disinvite/jman-decomp)
 - [The Legend Of Zelda II: The Adventure Of Link](https://github.com/FiendsOfTheElements/z2disassembly)
-- [The Legend of Zelda Links Awakening DX](https://github.com/zladx/LADX-Disassembly) | [PC Port](https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated)
+- [The Legend of Zelda Links Awakening DX](https://github.com/zladx/LADX-Disassembly)
 - [The Legend of Zelda Oracle of Ages & Seasons](https://github.com/Drenn1/oracles-disasm)
 - [The Legend Of Zelda: A Link To The Past](https://github.com/snesrev/zelda3)
 - [The Legend of Zelda: Breath of the Wild](https://github.com/zeldaret/botw)
@@ -680,6 +686,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Vandal Hearts](https://github.com/shao113/vh)
 - [VIB Ribbon](https://github.com/open-ribbon/open-ribbon)
 - [Virtua Racing](https://github.com/matiaszanolli/sega-vr-disasm)
+- [Virtua Tennis](https://github.com/consolesplayingconsoles/virtua-tennis-decomp/)
 - [Virtual Pool 64](https://github.com/llonsit/virtualpool64)
 - [Virtual Pro Wrestling 2: Ōdō Keishō](https://github.com/aki-club/vpw2)
 - [Viva Pinata: Trouble In Paradise](https://github.com/SolarCookies/TiP-Recomp)
@@ -709,6 +716,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Yoshi's Woolly World](https://github.com/Swiftshine/yww)
 - [Ys VI](https://github.com/GrantBenR/YsViDecomp)
 - [Yu-Gi-Oh! Reshef of Destruction](https://github.com/shinny456/ygodm8)
+- [Zombie Revenge](https://github.com/consolesplayingconsoles/zombie-revenge-decomp/)
 - [Zone of the Enders 1](https://github.com/GirianSeed/zoe1)
 - [Zone of the Enders 2](https://github.com/GirianSeed/zoe2)
 - [Zone of the Enders 3 (Guy Savage from Metal Gear Solid 3)](https://github.com/GirianSeed/zoe3)
