@@ -10,7 +10,7 @@ Thanks to everyone who helped, Listed [Here!](https://github.com/SamidyFR/Game-D
 - The list is a Work in Progress (WIP). Still a bunch missing. If you want to help by fixing spelling mistakes, duplicates or just add more game decomps, read the [Contributing Guide!](https://github.com/SamidyFR/Game-Decompilations/blob/main/CONTRIBUTING.md)
 - **TIP: Use Ctrl+F To search for a Game decomp! This is listed in alphabetical order but the list is LONG, Which is why we recommend Ctrl+F**
 
-Last Updated: November 13nd, 2026
+Last Updated: November 15th, 2026
 
 Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decompilations) it will help out a ton.
 
@@ -238,8 +238,8 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [GoldenEye 007](https://gitlab.com/kholdfuzion/goldeneye_src)
 - [Goof Troop](https://github.com/Yoshifanatic1/Goof-Troop-Disassembly)
 - [Gran Turismo 2](https://github.com/ginryuoku/gt2-reversing)
-- [Grand Theft Auto Advanced](https://github.com/AnriTool/AdvanceLiberty-Enhanced)
 - [Grand Theft Auto 2](https://github.com/CriminalRETeam/gta2_re)
+- [Grand Theft Auto Advanced](https://github.com/AnriTool/AdvanceLiberty-Enhanced)
 - [Grand Theft Auto III / Grand Theft Auto: Vice City](https://github.com/Cai1Hsu/re3) | [Download Compiled Version](https://archive.org/details/gta-3-gta-vc-re_20210222_0707_20211010_0949/GTAModding%20REVC%26RE3%20backup/Archive%20org%20backup/1.jpg)
 - [Grand Theft Auto: Chinatown Wars](https://github.com/official-kryo-to/ctw-native/tree/main/port) | [PC Port](https://github.com/official-kryo-to/ctw-native)
 - [Grand Theft Auto: San Andreas](https://github.com/gta-reversed/gta-reversed)
@@ -296,9 +296,9 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Kunio-kun no Nekketsu Soccer League](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Kunio-kun%20no%20Nekketsu%20Soccer%20League)
 - [Kuon (Mulberry)](https://github.com/weirdbeardgame/Mulberry)
 - [Legacy of Kain: Soul Reaver](https://github.com/fmil95/soul-re)
+- [Legaia 2: Duel Saga](https://github.com/WeAreTommyBruh/Legaia2-Decomp)
 - [Legend of Dragoon](https://github.com/Legend-of-Dragoon-Modding/Legend-of-Dragoon-Java)
 - [Legend of Legaia](https://github.com/dacodechick/legaia-decomp)
-- [Legaia 2: Duel Saga](https://github.com/WeAreTommyBruh/Legaia2-Decomp)
 - [Legend of Mana](https://github.com/celophi/lom-decomp)
 - [LEGO Batman: The Videogame](https://github.com/wasdhjklxyz/lbtvg)
 - [Lego Battles](https://github.com/LiruJ/Lego-Battles-Decomp)
@@ -411,8 +411,8 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Panzer Dragoon Saga](https://github.com/yaz0r/Azel)
 - [Paper Mario 64 (PaperBoat)](https://github.com/HarbourMasters/PaperBoat)
 - [Paper Mario: Sticker Star](https://github.com/darxoon/leaflitter)
-- [Paper Mario: The Thousand-Year Door](https://github.com/doldecomp/ttyd)
 - [Paper Mario: The Thousand-Year Door (all seven versions)](https://github.com/LLCOOLT/ttyd)
+- [Paper Mario: The Thousand-Year Door](https://github.com/doldecomp/ttyd)
 - [Paper Mario](https://github.com/pmret/papermario)
 - [PaRappa the Rapper 2](https://github.com/parappadev/parappa2)
 - [Perfect Dark (Dab's Mod)](https://github.com/DabDavis/perfect-dark-dabs-mod)
@@ -723,6 +723,8 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Zuma Deluxe](https://github.com/alula/CircleShootApp)
 - [⚠️ Battle City (Browser reimplementation)](https://github.com/vgrichina/battlecity)
 - [⚠️ Dead or Alive Extreme 2](https://github.com/Revan67/DOAX2-Recomp)
+- [⚠️ Diablo II: Lord of Destruction (1.14d reimplementation)](https://github.com/psi29a/d2decomped)
+- [⚠️ Gearhead Garage (native macOS recompilation)](https://github.com/007hacky007/gearhead-garage-macos-arm64)
 - [⚠️ Lord of the Rings; The Third Age](https://github.com/Revan67/ThirdAge-Recomp)
 - [⚠️ Power Strike (Disassembly + reskin toolkit)](https://github.com/noema-lands/power-strike-teardown)
 - [⚠️ Rumble Roses XX](https://github.com/Revan67/RumbleRosesXX-Recomp)
