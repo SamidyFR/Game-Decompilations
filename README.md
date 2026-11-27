@@ -10,7 +10,7 @@ Thanks to everyone who helped, Listed [Here!](https://github.com/SamidyFR/Game-D
 - The list is a Work in Progress (WIP). Still a bunch missing. If you want to help by fixing spelling mistakes, duplicates or just add more game decomps, read the [Contributing Guide!](https://github.com/SamidyFR/Game-Decompilations/blob/main/CONTRIBUTING.md)
 - **TIP: Use Ctrl+F To search for a Game decomp! This is listed in alphabetical order but the list is LONG, Which is why we recommend Ctrl+F**
 
-Last Updated: November 15th, 2026
+Last Updated: November 27th, 2026
 
 Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decompilations) it will help out a ton.
 
@@ -271,8 +271,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Jak & Daxter](https://github.com/open-goal/jak-project)
 - [Jazz Jackrabbit 2](https://github.com/Mustafa1177/jazzjackrabbit2-decompiled)
 - [Jet Force Gemini](https://github.com/ryan-myers/jet-force-gemini)
-- [Jet Set Radio Future (Recomp)](https://github.com/andeecollard/jsrf-recomp)
-- [Jet Set Radio Future](https://codeberg.org/KeybadeBlox/JSRF-Decompilation)
+- [Jet Set Radio Future](https://codeberg.org/KeybadeBlox/JSRF-Decompilation) | [Recomp](https://github.com/andeecollard/jsrf-recomp), [2](https://github.com/JuMatt/JetSetRadioFuture-Unleashed), [3](https://github.com/spriteice/JSRF-PC)
 - [Johnny Herbert's Grand Prix Championship 1998](https://github.com/danvratil/jhgpc98decomp)
 - [Jumping Flash](https://github.com/NotExactlySiev/aloha)
 - [Jurassic Park: Operation Genesis](https://github.com/AdventureT/OpenJPOG)
